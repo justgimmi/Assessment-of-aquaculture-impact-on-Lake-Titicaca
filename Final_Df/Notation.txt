@@ -1,0 +1,9 @@
+B=barco
+CH=chucasuyo
+B=blanco
+J=jaula
+
+S=superficie
+M=medio
+F=fondo
+
