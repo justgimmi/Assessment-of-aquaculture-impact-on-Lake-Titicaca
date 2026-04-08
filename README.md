@@ -2,7 +2,7 @@
 
 This repository contains the data, code, and analytical workflow supporting the study:
 
-**"Environmental effects of cage-based trout farming and waste collectors in Lake Titicaca"**
+**"Assessment of aquaculture impact on Lake Titicaca: Combining Bayesian modelling and C and N stable isotopes to support sustainable strategies"**
 
 ---
 
