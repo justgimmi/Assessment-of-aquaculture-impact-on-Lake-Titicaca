@@ -24,7 +24,7 @@ We adopt an integrative framework combining **physicochemical variables**, **eut
 
 ## 🎯 Objectives
 
-- Quantify the impact of trout cages on water quality  
+- Quantify the possible impact of trout cages on water quality  
 - Assess the effectiveness of faecal waste collectors as mitigation tools  
 - Disentangle treatment effects from spatial and seasonal variability  
 - Provide an integrated, multi-indicator assessment of aquaculture impacts  
